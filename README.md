@@ -3,6 +3,11 @@
 A simple shopping cart web application built with React and Vite.  
 Users can add, remove, and manage products in their cart with ease.
 
+## Live Demo
+
+Check out the live version of my shopping cart app: [Click here](https://shoppingcart-three-umber.vercel.app)
+
+
 ---
 
 ## Features
