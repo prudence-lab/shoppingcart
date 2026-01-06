@@ -2,6 +2,10 @@
 
 A simple shopping cart web application built with React and Vite.  
 Users can add, remove, and manage products in their cart with ease.
+### Live Demo
+Check it out here: [Shopping Cart App](https://shoppingcart-2hzxxy1h5-prudence-labs-projects.vercel.app)
+
+
 
 ---
 
